@@ -4,6 +4,7 @@ h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 48px;
     font-style: normal;
+    border: 1px black;
 }
 
 h1 {
@@ -17,4 +18,11 @@ p {
 
 h2 {
     font-size: 24px;
+    background-color:beige;
+    color: black;
+    border: 0.5px black solid;
+}
+
+body {
+    background-color: bisque;
 }
